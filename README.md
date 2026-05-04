@@ -56,6 +56,6 @@ Ich baue Dinge, die täglich genutzt werden — von Multi-Agenten-KI-Systemen bi
 
 ## 📬 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peer_Stelter-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-stelter-88371827b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peer_Stelter-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerstelter/)
 [![CV](https://img.shields.io/badge/CV-peerstelter.de-14b8a6?style=flat&logo=googlechrome&logoColor=white)](https://peerstelter.de)
 [![E-Mail](https://img.shields.io/badge/E--Mail-info@peerstelter.de-14b8a6?style=flat&logo=gmail&logoColor=white)](mailto:info@peerstelter.de)
