@@ -51,6 +51,7 @@ Ich identifiziere Probleme, denke sie durch — und finde einen Weg. Heute baue 
 - 🎓 Meister für Veranstaltungstechnik (IHK)
 - 🌐 Extreme Networks Certified Associate × 5 (ExtremeCloud IQ, Fabric Connect, Switching, XIQ Site Engine, SD-WAN)
 - 🔊 Audinate Dante Level 1, 2 & 3
+- 🚁 EU Drohnenführerschein A1/A3
 
 ---
 
