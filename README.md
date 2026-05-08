@@ -1,9 +1,9 @@
 # Hey, ich bin Peer 👋
 
-**IT-Projektmanager · KI-Entwickler · Technische Führungskraft**  
+**IT-Projektmanager · Technischer Problemlöser · KI-Anwender**  
 Stellvertretender Technischer Direktor @ Stadttheater Gießen · Lampertheim, DE
 
-Ich baue Dinge, die täglich genutzt werden — von Multi-Agenten-KI-Systemen bis zu produktionsreifen Web-Apps. Daneben leite ich IT-Infrastrukturprojekte und spreche öffentlich über den Einsatz von KI.
+Ich identifiziere Probleme, denke sie durch — und finde einen Weg. Heute baue ich mit KI-Tools wie Claude Code und Codex Dinge, die täglich genutzt werden: von Multi-Agenten-Systemen bis zu produktionsreifen Web-Apps. Kein klassischer Programmierer, aber jemand der versteht was er baut und Verantwortung für das Ergebnis übernimmt. Leite IT-Infrastrukturprojekte, bleibe auch in komplexen Situationen ruhig — und spreche öffentlich über den pragmatischen Einsatz von KI.
 
 ---
 
